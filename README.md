@@ -49,7 +49,7 @@ ___
 #### Так же можно сделать ссылку кликабельной, т.е. вставить ссылку на сайт в тело изображения
 
 [![ссылка на ГБ](https://sun1-88.userapi.com/s/v1/if1/aBmRwrHe-h4dT7ViQHnTlw0zEjXUd_oMTp0R5BrlseqengGVWFcRBpkMHHTDZw_Esi4rsJKC.jpg?size=400x400&quality=96&crop=510,63,926,926&ava=1)](gb.ru)
-[![ссылка на ГБ](https://sun1-88.userapi.com/s/v1/if1/aBmRwrHe-h4dT7ViQHnTlw0zEjXUd_oMTp0R5BrlseqengGVWFcRBpkMHHTDZw_Esi4rsJKC.jpg?size=400x400&quality=96&crop=510,63,926,926&ava=1)](gb.ru)
+
 
 
 ## Работа со списками, чек-боксами, цитатами
@@ -102,3 +102,11 @@ try - выполнить инструкции, перехватывая искл
 while - цикл while
 yield - определение функции-генератора\
 
+Данное занятие выложено на ГитХабе по [ссылке](https://github.com/Varajei/DZ_VO2.git)
+
+# Описание ошибок
+___
+
+1. невнимательно отслеживал изменения при слиянии
+2. зря перемудрил и начал сливать лишние ветки
+3. при работе со слиянием думаю стоит удалять лишние ветки дабы не путаться
