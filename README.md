@@ -25,11 +25,11 @@ ___
 
 ## Работа со ссылками
 
-##### При работе со ссылками мы можем просто прописать сайт gb.ru или оформить ее с помощью кода
+##### При работе со ссылками мы можем просто прописать сайт https://gb.ru или оформить ее с помощью кода
 [X] (Y) 
 где X это текст которы будет отображаться в инструкции/описании
 где Y это ссылка на ресурс
-Вфглядит это [так](gb.ru)
+Вфглядит это [так](https://gb.ru)
 
 
 
@@ -48,7 +48,7 @@ ___
 
 #### Так же можно сделать ссылку кликабельной, т.е. вставить ссылку на сайт в тело изображения
 
-[![ссылка на ГБ](https://sun1-88.userapi.com/s/v1/if1/aBmRwrHe-h4dT7ViQHnTlw0zEjXUd_oMTp0R5BrlseqengGVWFcRBpkMHHTDZw_Esi4rsJKC.jpg?size=400x400&quality=96&crop=510,63,926,926&ava=1)](gb.ru)
+[![ссылка на ГБ](https://sun1-88.userapi.com/s/v1/if1/aBmRwrHe-h4dT7ViQHnTlw0zEjXUd_oMTp0R5BrlseqengGVWFcRBpkMHHTDZw_Esi4rsJKC.jpg?size=400x400&quality=96&crop=510,63,926,926&ava=1)](https://gb.ru)
 
 
 
